@@ -1,13 +1,11 @@
-
-
 var y 
 
 y = 100 
 
-
 function setup(){
     createCanvas(600,400)
 }
+
 function draw(){
     background(54);
     fill(242, 7, 7);
